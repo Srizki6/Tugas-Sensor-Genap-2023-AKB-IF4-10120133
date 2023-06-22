@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_profile_"/>
+    <item
+        android:id="@+id/favorit"
+        android:title="Favorit"
+        android:icon="@drawable/ic_favorite_foreground"/>
+    <item
+        android:id="@+id/location"
+        android:title="Location"
+        android:icon="@drawable/ic_maps_foreground"/>
+    <item
+        android:id="@+id/about"
+        android:title="About"
+        android:icon="@drawable/ic_about_foreground"/>
+</menu>
